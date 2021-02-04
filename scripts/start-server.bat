@@ -1,0 +1,1 @@
+java -D"java.rmi.server.hostname=192.168.1.10" -D"java.rmi.server.codebase=http://192.168.1.10:8000/service.jar" -jar server.jar

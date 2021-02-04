@@ -1,0 +1,4 @@
+Manifest-Version: 1.0 
+Created-By: Murilo Costa Gonçalves
+Class-Path: client.jar service.jar client/handler/
+Main-Class: client.Client

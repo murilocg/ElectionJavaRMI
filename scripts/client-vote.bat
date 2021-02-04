@@ -1,0 +1,1 @@
+java -D"java.rmi.server.codebase=http://19.168.1.10:8000/service.jar" -jar client.jar 192.168.1.10 vote "Murilo Costa" "Vereador Bananinha"

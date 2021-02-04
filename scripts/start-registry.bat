@@ -1,0 +1,1 @@
+rmiregistry -J"-Djava.rmi.server.codebase=http://localhost:8000/service.jar"
